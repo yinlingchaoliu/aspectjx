@@ -1,0 +1,3 @@
+include ':app', ':hugo-runtime'
+include ':hugo-annotations'
+include ':aspectj-plugin'
