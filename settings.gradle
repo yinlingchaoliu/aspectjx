@@ -1,3 +1,5 @@
-//include ':app', ':hugo-runtime'
-//include ':hugo-annotations'
+include ':app'
+include ':hugo-runtime'
+include ':hugo-annotations'
 include ':aspectj-plugin'
+include ':lib-annotation'
